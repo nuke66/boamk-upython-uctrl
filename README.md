@@ -1,2 +1,2 @@
 # BPAML uPython & uControllers
-Beginners Python and Machine Learning - uPython &amp; uControllers examples
+Example code for uPython on uControllers and other devices
