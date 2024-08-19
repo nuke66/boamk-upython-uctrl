@@ -5,5 +5,7 @@ led=Pin("LED",Pin.OUT)        #create LED object from pin13,Set Pin13 to output
 
 while True:
   led.toggle()
-  time.sleep(1.0)
+  time.sleep(0.2)
+  
+
   
